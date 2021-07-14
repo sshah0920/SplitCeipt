@@ -1,4 +1,5 @@
 # SplitCeipt
+Splitceipt is an application similar to splitwise, instead of money, we use Cryptocurrency here! 
 
 ## How to run? 
 To run you will need ethereum installed and you also need to pip the following: <br />
